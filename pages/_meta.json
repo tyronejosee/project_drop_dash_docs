@@ -1,6 +1,8 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
+  "index": "Overview",
+  "introduction": "Introduction",
+  "models": "Models",
+  "references": "References",
   "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
